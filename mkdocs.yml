@@ -1,6 +1,6 @@
 site_name: Senna
 site_author: Thiago
-
+site_dir: /var/www/html
 theme:
   name: material
   language: pt
