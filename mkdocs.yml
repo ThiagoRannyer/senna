@@ -1,0 +1,6 @@
+site_name: Senna
+site_author: Thiago
+
+theme:
+  name: material
+  language: pt
